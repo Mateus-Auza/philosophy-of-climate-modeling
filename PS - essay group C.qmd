@@ -1,0 +1,111 @@
+---
+title: "Climate Models: Reliable Guides or Uncertain Predictions?"
+subtitle: "Group C presentation essay"
+author: "Auza Cruz Mateus"
+date: today
+format: 
+  pdf:
+    embed-resources: true
+    bibliography: references_copy.bib
+execute:
+  cache: false 
+  warning: false
+project:
+  execute-dir: project
+editor: 
+  markdown: 
+    wrap: 80
+---
+
+# Introduction
+
+Climate simulations play an increasingly important role in modern policymaking. Governments and international organizations rely on climate models to help guide environmental policy, economic planning, and long-term responses to climate risk. At the same time, these models remain controversial because they operate under significant uncertainty.
+
+The climate system is extremely complex. It involves many interacting processes, such as atmospheric circulation, ocean currents, greenhouse gas emissions, and human activity, all operating across different spatial and temporal scales. Because small changes in initial conditions can lead to very different long-term outcomes, perfectly accurate predictions about future climate conditions are impossible. Critics argue that this uncertainty weakens the reliability of climate simulations and makes them less trustworthy as tools for policymaking. [@HawkinsSutton2009; @sep-models]
+
+This raises a broader philosophical question: what counts as reliable scientific knowledge when uncertainty cannot be avoided? Traditional ideas about scientific reliability often focus on accurate prediction, empirical testing, and clear explanation. Climate science does not always fit neatly into these standards because it depends heavily on large-scale computational simulations. Philosophers such as Eric Winsberg and Wendy S. Parker argue that climate models should not be judged by whether they provide absolute certainty. Instead, they should be evaluated according to factors such as robustness across multiple models, probabilistic reasoning, and whether they are adequate for their intended purpose. [@sep-models; @WinsbergSimulation; @ParkerAdequacyPurpose]
+
+This essay argues that climate simulations remain epistemically reliable despite their uncertainty. Although they cannot deliver perfectly certain predictions, they can still provide strong justification for rational policy decisions through robustness and adequacy-for-purpose. In climate science, reliability depends less on certainty and more on whether models can provide dependable probabilistic guidance under uncertain conditions.
+
+# The Epistemological Problem of Climate Modeling
+
+Climate simulations present an important epistemological challenge because they attempt to represent an enormously complex and nonlinear system. Unlike controlled laboratory experiments, the climate contains countless interacting variables operating over long periods of time and across the entire planet. Atmospheric circulation, ocean systems, greenhouse gas concentrations, and human behavior all influence one another in complicated ways. Even small differences in initial conditions can produce very different long-term outcomes, which limits the possibility of exact prediction. [@HawkinsSutton2009]
+
+However, this does not necessarily make climate models unreliable. Climate simulations are not designed to predict the exact weather on a particular day decades in advance. Their main purpose is to identify broader trends, patterns, and probabilities. For example, they can estimate likely increases in global temperature or changes in the frequency of extreme weather events. Their value therefore lies more in probabilistic guidance than in precise prediction. [@HawkinsSutton2009]
+
+Another concern involves the complexity of the simulations themselves. Modern climate models are so mathematically and computationally complicated that no single scientist fully understands every part of the system. Critics argue that this lack of complete transparency makes it harder to trust the results produced by the models. Philosophers such as Eric Winsberg have questioned whether simulations genuinely increase scientific understanding or whether they mainly generate sophisticated predictions without fully explaining the underlying processes. [@WinsbergSimulation; @Maeda2021BlackBoxes]
+
+Still, uncertainty does not automatically undermine scientific justification. Many areas of science, especially those dealing with highly complex systems, rely on probabilistic reasoning rather than absolute certainty. The key issue is not whether climate models involve uncertainty—they clearly do—but whether they can still provide sufficiently reliable knowledge despite that uncertainty. This question is central to understanding how climate simulations can legitimately support policymaking and public decision-making.
+
+# Induction and Falsifiability
+
+The philosophical problems connected to climate simulations become clearer when viewed through older debates in the philosophy of science, especially discussions about induction and falsifiability. These ideas help explain both why climate modeling faces criticism and why it can still be considered scientifically legitimate.
+
+## Hume and the Problem of Induction
+
+David Hume argued that science depends heavily on induction, meaning that we assume patterns observed in the past will continue into the future. For example, people expect the sun to rise tomorrow because it has always risen before, and scientists assume that the laws of physics will continue to behave consistently because they always have. Hume pointed out, however, that this assumption cannot be logically proven. There is no absolute guarantee that the future must resemble the past, and any attempt to justify induction ends up relying on induction itself. This creates a basic problem at the center of empirical science. [@HumeEnquiry]
+
+Hume’s argument is relevant to climate modeling because climate simulations also depend on assumptions about how climate patterns and physical processes will continue over time. As a result, climate models cannot provide complete certainty about future conditions. Their conclusions are probabilistic rather than absolutely certain. At the same time, this problem is not unique to climate science. Most scientific knowledge is based on evidence, observation, and repeated success rather than strict logical proof. Science rarely deals in certainty; instead, it produces conclusions that are reasonable and well supported by available evidence. Climate science works in the same way. [@HumeEnquiry]
+
+## Popper and Falsifiability
+
+Karl Popper approached the problem differently. Rather than trying to prove scientific theories true, Popper argued that science works by testing theories and attempting to falsify them. A scientific theory is accepted not because it has been definitively proven correct, but because repeated efforts to disprove it have failed. [@PopperLogic]
+
+This idea is useful for understanding climate simulations. Climate models are not trusted simply because scientists assume they are accurate. They are constantly compared with observational data, evaluated against historical climate patterns, and tested alongside other simulations. Models that fail to reproduce important climate behavior may be revised or abandoned, while models that repeatedly perform well gain credibility over time. [@PopperLogic]
+
+Popper’s approach also shows why uncertainty does not make climate science unscientific. Scientific theories are always provisional and open to revision if new evidence appears. Climate simulations therefore do not need to provide perfect certainty in order to be scientifically reliable. Their value comes from continuous testing, comparison, and their ability to produce useful probabilistic predictions under uncertain conditions. [@PopperLogic]
+
+Together, Hume and Popper provide a foundation for more recent ideas about scientific reliability in climate science, especially approaches based on robustness, ensemble modeling, and adequacy-for-purpose.
+
+# Robustness, Ensembles, and Adequacy-for-Purpose
+
+If climate models involve significant uncertainty, an obvious question follows: why should we trust them at all? In recent philosophy of climate science, many thinkers have responded to this issue not by trying to eliminate uncertainty, but by rethinking what scientific reliability actually means. Concepts such as robustness, ensemble modeling, and adequacy-for-purpose suggest that scientific models can still be reliable even when they do not provide perfect certainty. [@HawkinsSutton2009; @ParkerAdequacyPurpose]
+
+## Ensemble Modeling and Robustness
+
+One of the main ways scientists increase confidence in climate projections is through ensemble modeling. Instead of depending on a single model, researchers compare the results of many independently developed simulations. These models are built differently and often use different assumptions, parameterizations, and computational methods. When multiple models still produce similar large-scale conclusions, scientists see this as evidence that the results are robust. [@HawkinsSutton2009; @ParkerAdequacyPurpose; @ICLEI2021]
+
+This idea of robustness is important because it changes how reliability is understood. Climate science does not assume that one perfect model can fully represent reality. Instead, confidence comes from the fact that different models repeatedly point toward similar long-term trends, such as rising global temperatures or more frequent extreme weather events. The agreement between independently developed models gives scientists stronger reason to trust the overall projections, even if each individual model contains limitations or uncertainties. [@HawkinsSutton2009; @ParkerAdequacyPurpose]
+
+Ensemble modeling also reflects the probabilistic nature of climate science more generally. Scientists usually do not claim that one exact future outcome will occur. Rather, they estimate a range of possible outcomes and assign different probabilities to them. This allows policymakers to evaluate risks and make decisions without waiting for impossible certainty. In this sense, robustness provides a practical way of justifying climate projections under conditions of uncertainty and complexity. [@HawkinsSutton2009; @ParkerAdequacyPurpose]
+
+## Model Democracy and Weighting
+
+At the same time, ensemble modeling creates additional philosophical and methodological problems. One major debate concerns whether all climate models should be treated equally, an approach sometimes called “model democracy.” Under this view, each model contributes equally to the final projection regardless of differences in performance. [@Knutti2010]
+
+Critics argue that this approach ignores important differences in model quality. Some models reproduce past climate behavior more accurately than others or include more advanced physical assumptions. Because of this, some scientists support weighted ensembles, where models with stronger performance have greater influence on the final results. [@Knutti2010]
+
+However, weighting models also creates difficulties. Deciding which models deserve more authority can involve subjective judgments, incomplete evaluation standards, or unnoticed similarities between supposedly independent models. As a result, neither equal weighting nor strict model weighting solves every problem. This debate shows that reliability in climate science is not completely mechanical; it still requires scientific judgment and ongoing evaluation. [@Knutti2010]
+
+## Adequacy-for-Purpose
+
+Another influential response comes from Wendy S. Parker’s idea of adequacy-for-purpose. Parker argues that scientific models do not need to perfectly represent reality in every detail in order to be useful or reliable. Instead, models should be judged according to whether they are good enough for the specific purposes they are meant to serve. [@ParkerAdequacyPurpose]
+
+From this perspective, uncertainty and approximation do not automatically undermine scientific reliability. A climate model can still be epistemically valuable even if it contains imperfections, as long as it provides information that is reliable enough to support rational decision-making. What matters most is whether the model can offer useful guidance about climate risks and long-term trends. Adequacy-for-purpose therefore provides a strong defense of climate simulations by treating scientific reliability as practical and probabilistic rather than absolute. [@ParkerAdequacyPurpose]
+
+# Thesis
+
+**Although climate simulations cannot provide complete certainty about the future, they remain scientifically reliable because climate science depends on probabilistic reasoning, robustness across multiple models, and adequacy-for-purpose rather than perfect prediction.**
+
+# Objections and Replies
+
+*One common objection* is that climate simulations are too uncertain to justify major political or economic decisions. However, this criticism assumes that policymaking requires certainty, which is rarely the case in practice. As discussed previously. [@WinsbergSimulation]
+
+*A second objection* argues that climate models may be epistemically circular because they are calibrated using historical climate data. Critics claim that if simulations are adjusted to match past observations, their apparent success may only reflect methodological tuning instead of genuine predictive ability. According to this view, models may simply reproduce assumptions already built into them. [@sep-models]
+
+This criticism raises a real issue, but calibration is a normal and necessary part of scientific modeling. In many scientific fields, models are refined using observational data in order to improve accuracy. Climate models are also not judged only by how well they reproduce past climate patterns. Scientists evaluate them based on their ability to predict independent trends and broader climatic behavior. In addition, climate science relies on ensembles of independently developed models that often converge on similar long-term projections despite using different assumptions and methods. This convergence strengthens confidence in the results and makes purely circular explanations less convincing. [@sep-models]
+
+*A third objection* focuses on the “black-box” character of modern climate simulations. Climate models are so mathematically and computationally complex that no individual scientist fully understands every process involved in producing their outputs. Critics therefore argue that simulations may generate predictions without producing genuine scientific understanding. [@WinsbergSimulation]
+
+This objection highlights an important tension in simulation-based science, but complete explanatory transparency is not the only standard for scientific reliability. In practice, scientific credibility often depends on successful testing, consistency across models, and practical usefulness. From Parker’s adequacy-for-purpose perspective, climate simulations remain justified if they provide sufficiently reliable guidance for the tasks they are meant to support. Full transparency may be desirable, but it is not always necessary for rational policymaking. [@ParkerAdequacyPurpose]
+
+# Conclusion
+
+Climate simulations raise difficult epistemological questions because they attempt to represent highly complex systems under uncertain conditions. Since climate models rely on computational approximations, probabilistic reasoning, and incomplete data, some critics question whether they can provide knowledge reliable enough to guide public policy. Debates about induction, falsifiability, robustness, and scientific explanation are therefore central to understanding the status of climate science. [@WinsbergSimulation]
+
+At the same time, uncertainty does not make climate modeling scientifically unreliable. Hume showed that empirical science generally depends on probabilistic inference rather than absolute certainty, while Popper argued that scientific theories remain provisional and open to revision. More recent philosophers of climate science build on these ideas by emphasizing robustness across multiple models and adequacy-for-purpose as standards of reliability. In this view, scientific credibility comes not from perfect prediction, but from testing, comparison, convergence between models, and practical usefulness in situations involving risk and uncertainty. [@HumeEnquiry; @PopperLogic; @ParkerAdequacyPurpose]
+
+Climate simulations therefore cannot deliver perfectly certain knowledge about the future, but that does not make them useless or unreliable. Science itself rarely provides certainty. What climate models can provide is dependable probabilistic guidance that helps policymakers evaluate risks and make informed decisions about long-term environmental challenges.
+
+
+# References
