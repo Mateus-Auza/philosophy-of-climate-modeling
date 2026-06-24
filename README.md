@@ -48,7 +48,7 @@ Although climate simulations cannot provide deterministic certainty, they remain
 | `climate-modeling-essay.qmd` | Quarto source document used to generate the essay |
 | `references_copy.bib` | Bibliography database in BibTeX format |
 | `README.md` | Project documentation |
-| `LICENSE` | Project license |
+| `LICENSE` | MIT |
 
 ## Key References
 
